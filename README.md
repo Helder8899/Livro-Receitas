@@ -3,7 +3,7 @@
 #### :wave: Olá Bem Vindo ao Livro de Receitas. :wave:
 
 - #### Strogonoff de Frango​ :chicken: 
-- #### Pavê
+- #### Pavê De Chocolate
 
 
 
