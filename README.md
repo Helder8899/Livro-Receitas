@@ -4,3 +4,4 @@
 
 - #### Strogonoff de Frango​ :chicken: 
 - #### Pavê De Chocolate :cake:
+- #### Empadão De Frango :chicken: 
